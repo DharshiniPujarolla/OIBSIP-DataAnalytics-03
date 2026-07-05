@@ -1,4 +1,4 @@
-# Data Analytics – Task 03: Customer Segmentation Analysis (iFood Marketing Dataset)
+# Data Analytics – Customer Segmentation Analysis (iFood Marketing Dataset)
 
 This project was completed as **Task 3** of the **Oasis Infobyte Summer Internship Program (OIBSIP) – Data Analytics track**. It performs **customer segmentation analysis** on the **iFood marketing campaign dataset** to understand customer behavior and group customers based on purchasing patterns and demographics.
 
